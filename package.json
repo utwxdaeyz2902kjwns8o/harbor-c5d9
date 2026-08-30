@@ -1,0 +1,6 @@
+{
+  "name": "harbor-c5d9",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": { "build": "tsc" }
+}
